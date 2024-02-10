@@ -1,7 +1,7 @@
 # Podstawy programowania
 
 ## Narzędzia kontroli wersji 
-Zestaw ćwiczeń do nauki w programie GitBash
+### Zestaw ćwiczeń do nauki w programie GitBash
 
 ### Spis treści
 * ### Zadanie 1
