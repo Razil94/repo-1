@@ -4,7 +4,7 @@
 Zestaw ćwiczeń do nauki w programie GitBash
 
 # Spis treści
-* Zadanie 1
+* # Zadanie 1
 ![Zrzut ekranu 2024-02-09 182420](https://github.com/Razil94/repo-1/assets/148622160/900015a2-b2bb-4b37-99b5-f2c1cb7f1111)
 ![Zrzut ekranu 2024-02-09 182851](https://github.com/Razil94/repo-1/assets/148622160/aea838e3-2f68-4f14-8048-bc3af21141be)
 ![Zrzut ekranu 2024-02-09 182902](https://github.com/Razil94/repo-1/assets/148622160/50f93645-67b4-4cfd-8d5d-0dd955881b7e)
