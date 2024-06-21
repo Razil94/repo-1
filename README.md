@@ -16,6 +16,8 @@
 
 
 - aplikacja umożliwia tworzenie wielu notatek, a także ich zapisywanie
+- daje możliwość odczytywania zapisanego tekstu, dzięki funkcji "Przeczytaj na głos"
 - ponadto wbudowany edytor tekstu, a także możliwość regulacji przeźroczystości notatek
 - dzięki opcji "zawsze na wierzchu" pomimo otwratych wielu okien, SzybkaNotatka zawsze będzię widoczna 
 <img src="Funkcje1.png">
+<img src="Funkcja3.png"> <img src="Funkcja4.png">
