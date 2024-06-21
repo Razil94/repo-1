@@ -11,8 +11,6 @@
 
 #### :green_circle: Instrukcja 
 - Uruchom aplikację, klikając F5 w Visual Studio lub uruchamiając skompilowany plik SzybkieNotatki.exe w katalogu bin/Debug.
-- Interfejs aplikacji umożliwi Ci tworzenie, edytowanie i usuwanie notatek.
-
 #### :green_circle: Interfejs 
 <img src="Interfejs.png">
 
