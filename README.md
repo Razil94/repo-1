@@ -16,4 +16,5 @@
 
 - aplikacja umożliwia tworzenie wielu notatek, a także ich zapisywanie
 - ponadto wbudowany edytor tekstu, a także możliwość regulacji przeźroczystości notatek
+- dzięki opcji "zawsze na wierzchu" pomimo otwratych wielu okien, SzybkaNotatka zawsze będzię widoczna 
 <img src="Funkcje1.png">
