@@ -6,8 +6,11 @@
 
 
 #### :green_circle:Wymagania systemowe
-- .NET Framework 4.7.2 lub nowszy
-- System operacyjny Windows 7 lub nowszy
+
+| System operacyjny Windows 7 lub nowszy |
+| ------ |
+| .NET Framework 4.7.2 lub nowszy|
+
 
 #### :green_circle: Instrukcja 
 - Uruchom aplikację, klikając F5 w Visual Studio lub uruchamiając skompilowany plik SzybkieNotatki.exe w katalogu bin/Debug.
