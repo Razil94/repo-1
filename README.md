@@ -1,4 +1,4 @@
-# Podstawy programowania
+# SzybkieNotatki
 
 ## Narzędzia kontroli wersji 
 ### Zestaw ćwiczeń do nauki w programie GitBash
