@@ -1,16 +1,11 @@
 # SzybkieNotatki
 
-## Narzędzia kontroli wersji 
-### Zestaw ćwiczeń do nauki w programie GitBash
+## O aplikacji
+### SzybkieNotatki to aplikacja desktopowa stworzona w języku C# przy użyciu Windows Forms, umożliwiająca szybkie tworzenie i zarządzanie notatkami. Aplikacja jest prosta w użyciu i pozwala użytkownikom na efektywne organizowanie swoich notatek.
 
-### Spis treści
-* ### Zadanie 1
-![Zrzut ekranu 2024-02-09 182420](https://github.com/Razil94/repo-1/assets/148622160/900015a2-b2bb-4b37-99b5-f2c1cb7f1111)
-![Zrzut ekranu 2024-02-09 182851](https://github.com/Razil94/repo-1/assets/148622160/aea838e3-2f68-4f14-8048-bc3af21141be)
-![Zrzut ekranu 2024-02-09 182902](https://github.com/Razil94/repo-1/assets/148622160/50f93645-67b4-4cfd-8d5d-0dd955881b7e)
-![Zrzut ekranu 2024-02-09 190910](https://github.com/Razil94/repo-1/assets/148622160/11bff9d8-8165-4c0a-a618-8d0f3c872646)
-![Zrzut ekranu 2024-02-09 190921](https://github.com/Razil94/repo-1/assets/148622160/f75abe6d-a48b-458e-88f7-a9dd91d5d8cd)
-
+### Wymagania systemowe
+.NET Framework 4.7.2 lub nowszy
+System operacyjny Windows 7 lub nowszy
 * ### Zadanie 2
 ![Zrzut ekranu 2024-02-09 191848](https://github.com/Razil94/repo-1/assets/148622160/97c10cb8-69bc-4ccc-8f82-e4c659f2ca12)
 ![Zrzut ekranu 2024-02-09 191305](https://github.com/Razil94/repo-1/assets/148622160/51df53a2-9cfe-48d8-bd2d-06bc1ff51134)
