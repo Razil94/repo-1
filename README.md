@@ -4,8 +4,10 @@
 ### SzybkieNotatki to aplikacja desktopowa stworzona w języku C# przy użyciu Windows Forms, umożliwiająca szybkie tworzenie i zarządzanie notatkami. Aplikacja jest prosta w użyciu i pozwala użytkownikom na efektywne organizowanie swoich notatek.
 
 ### Wymagania systemowe
-.NET Framework 4.7.2 lub nowszy
-System operacyjny Windows 7 lub nowszy
+- T.NET Framework 4.7.2 lub nowszy
+- System operacyjny Windows 7 lub nowszy
+- See HTML in the right
+- ✨Magic ✨
 * ### Zadanie 2
 ![Zrzut ekranu 2024-02-09 191848](https://github.com/Razil94/repo-1/assets/148622160/97c10cb8-69bc-4ccc-8f82-e4c659f2ca12)
 ![Zrzut ekranu 2024-02-09 191305](https://github.com/Razil94/repo-1/assets/148622160/51df53a2-9cfe-48d8-bd2d-06bc1ff51134)
