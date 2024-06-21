@@ -14,5 +14,5 @@
 - Interfejs aplikacji umożliwi Ci tworzenie, edytowanie i usuwanie notatek.
 
 #### :green_circle: Interfejs 
-
+<img src="Interfejs.png">
 
