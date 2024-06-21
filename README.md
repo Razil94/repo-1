@@ -14,3 +14,6 @@
 #### :green_circle: Interfejs 
 <img src="Interfejs.png">
 
+- aplikacja umożliwia tworzenie wielu notatek, a także ich zapisywanie
+- ponadto wbudowany edytor tekstu, a także możliwość regulacji przeźroczystości notatek
+<img src="Funkcje1.png">
